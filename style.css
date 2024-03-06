@@ -1,0 +1,130 @@
+html {
+  background: #0c6c9d;
+}
+
+body {
+  text-align: center;
+  width: 900px;
+  padding: 30px 50px;
+  margin: 20px auto;
+  border-radius: 20px;
+  background: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#table1 {
+  border: 1px solid red;
+  margin: 30px auto;
+}
+
+#table1 td {
+  border: 1px dotted blue;
+  padding: 10px;
+}
+
+#row-1 {
+  background-color: #053561;
+  color: white;
+}
+
+.Block {
+  background-color: black;
+  color: white;
+}
+
+.time {
+  font-size: 8px;
+  font-style: italic;
+}
+
+.subject:hover {
+  background: #06413a;
+  color: white;
+  cursor: cell;
+  font-size: 12px;
+
+  transition: font-size 0.5s, background 0.5s, color 0.5s;
+}
+
+#table2 {
+  margin: 0px auto;
+  background-color: #0c6c9d;
+  width: 400px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border-radius: 40px;
+  margin-bottom: 40px;
+}
+
+#table2 hr {
+  width: 300px;
+}
+
+#table2 p {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.simages {
+  width: 80px;
+  height: 80px;
+}
+
+.td-socials {
+  border: 0px;
+}
+
+.margin-right {
+  margin-right: 30px;
+}
+
+#table3 {
+  background-color: lightskyblue;
+  border: 2px inset grey;
+  margin: 0px auto;
+  padding: 3px;
+  width: 900px;
+}
+
+.id {
+  border: 1px solid black;
+}
+
+.blue {
+  color: blue;
+}
+
+.yellow {
+  color: orange;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.pink {
+  color: pink;
+}
+
+.maroon {
+  color: maroon;
+}
+.wred {
+  color: darkred;
+}
+
+.dfont {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.Lunch {
+  text-orientation: upright;
+  writing-mode: vertical-lr;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
